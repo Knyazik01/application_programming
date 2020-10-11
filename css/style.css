@@ -1,0 +1,28 @@
+body {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 25px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: 15px 10px;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: 'Alex Brush', cursive;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
