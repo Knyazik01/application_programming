@@ -1,0 +1,53 @@
+body {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.picture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #02122A;
+    padding: 10px;
+    height: 590px;
+    width: 590px;
+}
+
+.pictureMoon {
+    min-width: 300px;
+    min-height: 300px;
+    background: #051937;
+    background-image: linear-gradient(to right bottom, #051937, #102653, #233471, #3a418e, #554dac);
+}
+
+.controls {
+    margin-top: 50px;
+}
+
+#drawButton {
+    margin-bottom: 20px;
+    padding: 15px 32px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#stopButton {
+    margin-bottom: 20px;
+    padding: 15px 32px;
+    background-color: #f44336;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}

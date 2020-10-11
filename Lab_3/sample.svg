@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 350" style="enable-background:new 0 0 350 350;" xml:space="preserve">
+<style type="text/css">
+	.st1{stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="picture">
+	<g id="stars">
+		<circle class="st1" cx="50" cy="45.3" r="1.7"/>
+		<circle class="st1" cx="167.6" cy="194.8" r="1.7"/>
+		<circle class="st1" cx="204.7" cy="199.6" r="1.7"/>
+		<circle class="st1" cx="123.6" cy="240.8" r="1.7"/>
+		<circle class="st1" cx="78.4" cy="249.8" r="1.7"/>
+		<circle class="st1" cx="141.6" cy="165.7" r="1.7"/>
+		<circle class="st1" cx="199.4" cy="151.8" r="1.7"/>
+		<circle class="st1" cx="164.6" cy="136.8" r="1.7"/>
+		<circle class="st1" cx="216.6" cy="128.5" r="1.7"/>
+		<circle class="st1" cx="182.6" cy="108.5" r="1.7"/>
+		<circle class="st1" cx="146.9" cy="100.8" r="1.7"/>
+		<circle class="st1" cx="182.6" cy="82.8" r="1.7"/>
+		<circle class="st1" cx="143.3" cy="53" r="1.7"/>
+		<circle class="st1" cx="106.6" cy="59.3" r="1.7"/>
+		<circle class="st1" cx="62.4" cy="106.8" r="1.7"/>
+		<circle class="st1" cx="18.1" cy="135" r="1.7"/>
+		<circle class="st1" cx="60.6" cy="148.3" r="1.7"/>
+		<circle class="st1" cx="9.6" cy="186.3" r="1.7"/>
+		<circle class="st1" cx="30.1" cy="233.1" r="1.7"/> 
+		<circle class="st1" cx="51.7" cy="206.7" r="1.7"/>
+	</g>
+	
+	<g id="moon_circle">
+		<circle class="st3" cx="301" cy="115.7" r="14.9" />
+		<circle class="st3" cx="272.6" cy="169.5" r="5.5"/>
+		<circle class="st3" cx="300.9" cy="228.8" r="7.8"/>
+		<circle class="st3" cx="210.1" cy="291" r="9"/>
+		<circle class="st3" cx="233.9" cy="39.8" r="4.8"/>
+	</g>
+
+	<g id="moon_line">
+		<path class="st2" d="M222.1,223c7-10.4,31.2-49.3,22-97C233.4,70.5,182,25.8,115.8,17.4C129.7,12,149.9,7,174.1,7
+		c92.2,0,168,75.8,168,168s-75.8,168-168,168c-58.9,0-113.7-31-144.1-81.6c13.6,6,59.6,24.2,115.1,8.6
+		C185.6,258.6,211.1,234.7,222.1,223z"/></g>
+	<g id="camp">
+		<path class="st4" d="M189.7,247l-7.3-14.5c-1.6,2.4-3.3,4-4.9,5c-12,8.2-29.9-2.4-30.8-2.9l0.9,32"/>
+		<line class="st4" x1="161.5" y1="262.1" x2="145.3" y2="233.1"/>
+		<path class="st4" d="M131.8,270.1c2.9-4.3,6.3-10,9-17.3c2.5-6.5,3.8-12.4,4.5-17.1"/>
+	</g>
+	
+	<g id="tree">
+		<!-- tree trunk -->
+		<rect x="96.6" y="206.7" class="st3" width="8.3" height="67.3"/>
+		<!-- dashes -->
+		<line class="st3" x1="96.6" y1="221" x2="100.8" y2="221"/>
+		<line class="st3" x1="96.6" y1="229.8" x2="100.8" y2="229.8"/>
+		<line class="st3" x1="96.6" y1="243.8" x2="100.8" y2="243.8"/>
+		<line class="st3" x1="96.6" y1="257.8" x2="100.8" y2="257.8"/>
+		<line class="st3" x1="101.9" y1="266.6" x2="106" y2="266.6"/>
+		<line class="st3" x1="100.1" y1="251.5" x2="104.3" y2="251.5"/>
+		<line class="st3" x1="100.9" y1="235.8" x2="105" y2="235.8"/>
+		<!-- leaves -->
+		<polygon class="st5" points="105,86.7 118.4,115.7 113.1,120.3 125.3,128.5 113.1,126.8 123.6,140.3 115.2,140.3 123.6,153.5 
+		113.1,148.3 129.8,161.3 112.8,155.7 127.4,173 117.4,175 129.8,184.5 112.1,184.5 125.3,196.5 109.1,194.8 129.8,210 108.8,210 
+		126.8,218.3 106,216.3 100.1,209 80.1,231.4 89.4,212 82.8,211.7 94.4,197.8 72.1,205.3 89.8,186.3 78.4,186.3 96.6,161.3 
+		80.1,171 98.7,142 81.8,151.8 93.4,135 86.8,138.5 96.6,124.3 86.8,126.8 100.9,106.8 93.4,108.5 	"/>
+	</g>
+</g>
+</svg>

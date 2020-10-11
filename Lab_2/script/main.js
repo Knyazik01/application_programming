@@ -22,7 +22,7 @@ function getIntervalValue(start, stop, step) {
 
             let value = start;
             for (let index = 0; index <= (stop - start) / step; index++) {
-                arr.push([value, getValueAt(value) || '&mdash;']);
+                arr.push([value, getValueAt(value)]);
                 value += step;
             }
 
@@ -51,7 +51,7 @@ function drawResultTable(array) {
     let x, y;
     for (let item of array) {
         x = (Math.round((item[0] + Number.EPSILON) * 1e5) / 1e5);
-        y = (Math.round((item[1] + Number.EPSILON) * 1e5) / 1e5);
+        y = (Math.round((item[1] + Number.EPSILON) * 1e5) / 1e5) || '&mdash;' ;
         html += `<tr><td>${x}</td><td>${y}</td></tr>`;
     }
 
