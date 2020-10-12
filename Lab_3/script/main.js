@@ -6,6 +6,7 @@ const
 
 let
     drawFlag = true,
+    reset = true,
     picWidth = pictureMoon.width,
     picHeight = pictureMoon.height,
     oX = picWidth / 2,
@@ -234,7 +235,11 @@ const drawPicture = (canvas) => {
 
 
 // document.addEventListener('DOMContentLoaded', () => drawPicture(pictureMoon));
-drawButton.addEventListener('click', () => { drawFlag = true; drawPicture(pictureMoon) });
+drawButton.addEventListener('click', () => {
+    drawFlag = true;
+    drawPicture(pictureMoon);
+    drawButton.setAttribute('disabled', 'disabled');
+});
 
 inputSide.addEventListener('input', () => {
         pictureMoon.width = +inputSide.value;
@@ -249,6 +254,7 @@ inputSide.addEventListener('input', () => {
 // not work
 stopButton.addEventListener('click', () => {
     drawFlag = false;
+    drawButton.removeAttribute('disabled');
 });
 
 /*
